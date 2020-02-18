@@ -6,6 +6,8 @@
 //  Copyright © 2019 Lambda, Inc. All rights reserved.
 //
 
+//Managers timer and handles when timer is finished
+
 import Foundation
 
 protocol CountdownDelegate: AnyObject {
